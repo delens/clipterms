@@ -1,0 +1,91 @@
+tool,field,value,quote,source,checked,status
+Runway,commercial_free,Yes,the Company does not restrict your commercial use of your Outputs,https://runway.com/terms-of-use,2026-11-23,verified
+Runway,watermark_free,Yes (inferred),"""No watermarks"" listed as a Standard-plan feature; Free plan = 125 one-time credits",https://runway.com/pricing,2026-11-23,inferred
+Runway,cheapest_commercial,Free ($0); Standard $12-15/mo removes watermark,Free $0 / Standard $15 ($12 billed yearly),https://runway.com/pricing,2026-11-23,verified
+Runway,ownership,User,The Company does not claim ownership of any of your Inputs or Outputs,https://runway.com/terms-of-use,2026-11-23,verified
+Runway,training,Yes,Inputs and Outputs may be used by the Company to train and improve its AI models,https://runway.com/terms-of-use,2026-11-23,verified
+Runway,likeness,No content infringing right of publicity,shall not ... Make Available any Content ... that infringes any ... right of publicity,https://runway.com/terms-of-use,2026-11-23,verified
+Pika,commercial_free,No,"Free: ""Not included: Commercial license""",https://pika.art/pricing,2026-11-23,verified
+Pika,watermark_free,No,"Free: ""Included: No watermark""",https://pika.art/pricing,2026-11-23,verified
+Pika,cheapest_commercial,Starter $10/mo,Starter ... $10 /mo ... Included: Commercial license,https://pika.art/pricing,2026-11-23,verified
+Pika,ownership,User,You retain all rights in your Inputs and the Outputs generated through your use of the Service,https://pika.art/terms-of-service,2026-11-23,verified
+Pika,training,Yes (anonymized/aggregated),"Pika may use anonymized or aggregated Content, including Inputs, Outputs ... to train, improve, and develop its machine learning models",https://pika.art/terms-of-service,2026-11-23,verified
+Pika,likeness,Written permission needed for others' likeness/voice; no deepfakes without consent,"creating an AI Self using another person's likeness, voice ... without explicit written permission",https://pika.art/terms-of-service,2026-11-23,verified
+HeyGen,commercial_free,No,"limited ... license to your User Output solely for personal, non-commercial, and internal evaluation purposes ... may not be sold ... monetized, or used in connection with commercial activities, advertising, client work",https://www.heygen.com/terms,2026-11-23,verified
+HeyGen,watermark_free,Yes,"Free: 3 videos a month, watermarked; videos up to 1 minute",https://www.heygen.com/pricing,2026-11-23,verified
+HeyGen,cheapest_commercial,Creator $29/mo,Creator $29 / mo,https://www.heygen.com/pricing,2026-11-23,verified
+HeyGen,ownership,User on paid plans; free = limited licence,you own all rights in your User Input or User Output ... (including for commercial purposes),https://www.heygen.com/terms,2026-11-23,verified
+HeyGen,training,Yes,including to train or otherwise improve or modify our artificial intelligence and machine learning models,https://www.heygen.com/terms,2026-11-23,verified
+HeyGen,likeness,Explicit consent required for avatars of other people; voice cloning needs permission on every plan,"Unless explicit consent has been provided, creating avatars of other individuals is strictly prohibited",https://www.heygen.com/moderation-policy,2026-11-23,verified
+Synthesia,commercial_free,Not stated,No explicit free-plan commercial rule found in the terms we read,https://www.synthesia.io/legal/customer-terms-of-service,2026-11-23,not_found
+Synthesia,watermark_free,Yes,Videos carry a Synthesia watermark (Basic $0),https://www.synthesia.io/pricing,2026-11-23,verified
+Synthesia,cheapest_commercial,Starter $19/mo (no watermark),Starter $19 ... No watermark,https://www.synthesia.io/pricing,2026-11-23,inferred
+Synthesia,ownership,Customer owns its data,Customer will own all Customer Data,https://www.synthesia.io/legal/customer-terms-of-service,2026-11-23,verified
+Synthesia,training,Limited: usage data improves the service only,in no event will ... Usage Information ... result in ... the creation or development of any artificial intelligence models that may be provisioned independent of the Services,https://www.synthesia.io/legal/customer-terms-of-service,2026-11-23,verified
+Synthesia,likeness,Stock avatars not allowed in paid/boosted social ads without written consent; custom avatar needs the person's consent,"Stock Avatar in content for ""promoted"", ""boosted"", or ""paid"" advertising ... absent written express consent from Synthesia",https://www.synthesia.io/legal/acceptable-use-policy,2026-11-23,verified
+Colossyan,commercial_free,Not stated,Terms (also for free/trial use) do not state a free-plan commercial rule,https://www.colossyan.com/terms/,2026-11-23,not_found
+Colossyan,watermark_free,Yes (inferred),"""Watermark removal"" only listed from the plan above Starter",https://www.colossyan.com/pricing/,2026-11-23,inferred
+Colossyan,cheapest_commercial,Not stated,Not found on the official page we read,https://www.colossyan.com/pricing/,2026-11-23,not_found
+Colossyan,ownership,"User owns uploaded materials; output use ""subject to this Agreement""","You retain all right, title and interest in and to the Customer Materials",https://www.colossyan.com/terms/,2026-11-23,verified
+Colossyan,training,No (except your own custom avatar),Colossyan will not use ... the Customer Materials to train any AI model or algorithm,https://www.colossyan.com/terms/,2026-11-23,verified
+Colossyan,likeness,Not stated,Separate Instant Avatar terms exist; not extracted,https://www.colossyan.com/terms/,2026-11-23,not_found
+D-ID,commercial_free,No,for a period of two weeks ... with limited features for non-commercial use only,https://www.d-id.com/studio-end-user-license-agreement/,2026-11-23,verified
+D-ID,watermark_free,Yes (full-screen on trial),"Note, a full-screen watermark appears for trial users",https://www.d-id.com/pricing/studio/,2026-11-23,verified
+D-ID,cheapest_commercial,Plan above Lite (Lite is non-commercial),"Paying Users subscribed to the ""Lite"" Plan will be able to use the Software and/or Animations for non-commercial use only",https://www.d-id.com/studio-end-user-license-agreement/,2026-11-23,verified
+D-ID,ownership,Not stated,No clear output-ownership clause found,https://www.d-id.com/studio-end-user-license-agreement/,2026-11-23,not_found
+D-ID,training,Not stated,No clear training clause found,https://www.d-id.com/studio-end-user-license-agreement/,2026-11-23,not_found
+D-ID,likeness,Not stated,Not found on the official page we read,https://www.d-id.com/studio-end-user-license-agreement/,2026-11-23,not_found
+InVideo,commercial_free,Yes (with watermark),"licence to use, reproduce, modify, distribute, perform, display and commercialise Outputs you generate through the Services",https://invideo.io/terms-of-service/,2026-11-23,verified
+InVideo,watermark_free,May carry one,Outputs generated without a Paid Plan may carry a visible watermark,https://invideo.io/terms-of-service/,2026-11-23,verified
+InVideo,cheapest_commercial,Free (watermark possible),see terms 4(h),https://invideo.io/terms-of-service/,2026-11-23,inferred
+InVideo,ownership,Perpetual licence to commercialise outputs,"perpetual, irrevocable, worldwide, royalty-free, non-exclusive licence",https://invideo.io/terms-of-service/,2026-11-23,verified
+InVideo,training,"Opt-in in EU/UK, opt-out elsewhere","In the EEA or UK, we use your User Data for these purposes only if you have turned on model training",https://invideo.io/terms-of-service/,2026-11-23,verified
+InVideo,likeness,Not stated,Not extracted,https://invideo.io/terms-of-service/,2026-11-23,not_found
+Luma (Dream Machine),commercial_free,No free plan listed,"Plans shown: Plus $30, Pro $90, Ultra $300",https://lumalabs.ai/pricing,2026-11-23,verified
+Luma (Dream Machine),watermark_free,Luma may add watermarks/credentials,"Luma reserves the right ... to embed watermarks, content credentials, provenance metadata",https://lumalabs.ai/legal/terms-of-service,2026-11-23,verified
+Luma (Dream Machine),cheapest_commercial,Plus $30/mo,Plus $30 /month ... Commercial use,https://lumalabs.ai/pricing,2026-11-23,verified
+Luma (Dream Machine),ownership,User (commercial only if made on a paid plan allowing it),"Customer owns and retains all right, title, and interest in and to the Output ... can only use the Outputs for commercial purposes if the Outputs were produced during an active Subscription Term",https://lumalabs.ai/legal/terms-of-service,2026-11-23,verified
+Luma (Dream Machine),training,Yes,"create, test, improve, train, or otherwise develop the artificial intelligence or machine learning models",https://lumalabs.ai/legal/terms-of-service,2026-11-23,verified
+Luma (Dream Machine),likeness,Not stated,Specific rules for photos with persons exist; not extracted,https://lumalabs.ai/legal/terms-of-service,2026-11-23,not_found
+Kling AI,commercial_free,No,"without our written permission, you may not use ... the Output for any commercial purposes (Terms 4.6)",https://kling.ai/docs/user-policy,2026-11-23,verified
+Kling AI,watermark_free,Yes (brand label required),each member holds exclusive rights and interests of removing brand watermarks (Paid terms 7.2),https://kling.ai/docs/payment-policy,2026-11-23,verified
+Kling AI,cheapest_commercial,Standard $10/mo ($6.5 first 3 months),Standard ... Brand watermark removal ... Generated content is for commercial use,https://kling.ai/app/membership/membership-plan,2026-11-23,verified
+Kling AI,ownership,User,You own all intellectual property rights ... We do not claim ownership of the Content (Terms 4.4),https://kling.ai/docs/user-policy,2026-11-23,verified
+Kling AI,training,Yes (broad licence for product upgrades/research),"use or develop the aforementioned Content ... for the purposes of promotion, product/function upgrades, and to research on new products (Terms 4.7.2)",https://kling.ai/docs/user-policy,2026-11-23,verified
+Kling AI,likeness,Not stated,Not extracted,https://kling.ai/docs/user-policy,2026-11-23,not_found
+Hailuo (MiniMax),commercial_free,No,"These Terms of Use permit you to use the Services for your personal, non-commercial use only",https://hailuoai.video/doc/terms-of-service.html,2026-11-23,verified
+Hailuo (MiniMax),watermark_free,Yes,Free Users: Video downloads will include a watermark,https://hailuoai.video/doc/payment-policy.html,2026-11-23,verified
+Hailuo (MiniMax),cheapest_commercial,Standard $14.99/mo,Standard Plan: Priced at $14.99 per month ... watermark-free downloads,https://hailuoai.video/doc/payment-policy.html,2026-11-23,verified
+Hailuo (MiniMax),ownership,User on paid plans,"you retain any and all intellectual property rights to such content, including the right to use it for commercial purposes",https://hailuoai.video/doc/payment-policy.html,2026-11-23,verified
+Hailuo (MiniMax),training,"Licence for ""improving"" services","to use, reproduce, modify, and display such content for the purpose of operating, improving, and promoting our services",https://hailuoai.video/doc/payment-policy.html,2026-11-23,verified
+Hailuo (MiniMax),likeness,You must obtain rights for image/voice; must not remove AI labels,"obtaining all rights ... relating to ... publicity, image, voice",https://hailuoai.video/doc/terms-of-service.html,2026-11-23,verified
+Vidu,commercial_free,No,"license ... for personal, non-commercial purposes, for paid users, this license extends to commercial use",https://www.vidu.com/terms,2026-11-23,verified
+Vidu,watermark_free,Yes (inferred),"""Download without watermark"" listed for paid plans",https://www.vidu.com/pricing,2026-11-23,inferred
+Vidu,cheapest_commercial,Standard $10/mo,Standard $10 ... Commercial use allowed,https://www.vidu.com/pricing,2026-11-23,verified
+Vidu,ownership,User (with licence to Vidu),You retain all rights to your User Content,https://www.vidu.com/terms,2026-11-23,verified
+Vidu,training,Yes,"The right to use User Content to improve and develop Vidu's existing and future products, including artificial intelligence training",https://www.vidu.com/terms,2026-11-23,verified
+Vidu,likeness,Not stated,Not extracted,https://www.vidu.com/terms,2026-11-23,not_found
+Google Flow / Veo,commercial_free,Unclear,Google won't claim ownership over that content (Flow help points to the Terms),https://support.google.com/flow/answer/16353333?hl=en,2026-11-23,verified
+Google Flow / Veo,watermark_free,Invisible SynthID on all; visible watermark is a toggle,All outputs generated in Google Flow using Veo ... include invisible SynthID watermarks,https://support.google.com/flow/answer/16353333?hl=en,2026-11-23,verified
+Google Flow / Veo,cheapest_commercial,Unclear (consumer terms silent),no plan-level rule found,https://policies.google.com/terms?hl=en-US,2026-11-23,inferred
+Google Flow / Veo,ownership,User (Google claims none),Some of our services allow you to generate original content. Google won't claim ownership over that content,https://policies.google.com/terms?hl=en-US,2026-11-23,verified
+Google Flow / Veo,training,Not stated,Not covered in the pages we read,https://policies.google.com/terms?hl=en-US,2026-11-23,not_found
+Google Flow / Veo,likeness,Generative AI prohibited-use policy applies,see Generative AI Prohibited Use Policy,https://policies.google.com/terms/generative-ai/use-policy,2026-11-23,inferred
+Captions (Mirage),commercial_free,Not stated,Not found on the official page we read,https://mirage.app/legal/captions-terms,2026-11-23,not_found
+Captions (Mirage),watermark_free,Not stated,Not found on the official page we read,https://captions.ai/pricing,2026-11-23,not_found
+Captions (Mirage),cheapest_commercial,Max $24.99/mo (price only),$24.99/mo,https://captions.ai/pricing,2026-11-23,verified
+Captions (Mirage),ownership,User,you own all rights in and to your Input and Output,https://mirage.app/legal/captions-terms,2026-11-23,verified
+Captions (Mirage),training,Licence to improve services / develop new ones,"to improve the Services, and to develop new services and products",https://mirage.app/legal/captions-terms,2026-11-23,verified
+Captions (Mirage),likeness,Your voice/likeness not commercialized as standard,to the extent the Input contains your voice or likeness ... we will not commercialize your voice,https://mirage.app/legal/captions-terms,2026-11-23,verified
+Hedra,commercial_free,Not stated,Not found on the official page we read,https://www.hedra.com/terms,2026-11-23,not_found
+Hedra,watermark_free,Not stated,"Pricing page now sells GPU compute / Model Factory, no creator plans",https://www.hedra.com/pricing,2026-11-23,not_found
+Hedra,cheapest_commercial,Not stated,No creator plans shown,https://www.hedra.com/pricing,2026-11-23,not_found
+Hedra,ownership,User,Hedra does not claim ownership of any Inputs or Outputs ... you are the owner,https://www.hedra.com/terms,2026-11-23,verified
+Hedra,training,Licence to operate the service,for the purposes of operating and providing the Service to you and to our other users,https://www.hedra.com/terms,2026-11-23,verified
+Hedra,likeness,Not stated,"Biometric data policy exists, not extracted",https://www.hedra.com/terms,2026-11-23,not_found
+OpenAI Sora,commercial_free,Discontinued,"The Sora web and app experiences were discontinued on April 26, 2026. The Sora API was discontinued on September 24, 2026.",https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation,2026-11-23,verified
+OpenAI Sora,watermark_free,Discontinued,Service closed,https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation,2026-11-23,verified
+OpenAI Sora,cheapest_commercial,Discontinued,Service closed,https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation,2026-11-23,verified
+OpenAI Sora,ownership,Discontinued,Service closed,https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation,2026-11-23,verified
+OpenAI Sora,training,Discontinued,Service closed,https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation,2026-11-23,verified
+OpenAI Sora,likeness,Discontinued,Service closed,https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation,2026-11-23,verified

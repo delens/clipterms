@@ -1,0 +1,85 @@
+tool,field,value,quote,source,checked,status
+Synthesia,consent,Live consent recording required (cannot be uploaded),Creating a personal avatar from photo requires a live consent recording to verify identity and authorization,https://docs.synthesia.io/docs/personal-avatars,2026-11-23,verified
+Synthesia,training,Only to improve the customer's own service; no standalone models,in no event will ... Usage Information ... result in ... the creation or development of any artificial intelligence models that may be provisioned independent of the Services,https://www.synthesia.io/legal/customer-terms-of-service,2026-11-23,verified
+Synthesia,ownership,Customer owns Customer Data (incl. videos),Customer will own all Customer Data,https://www.synthesia.io/legal/customer-terms-of-service,2026-11-23,verified
+Synthesia,biometric,Kept while the avatar exists; verification data until match (minutes),Biometric Data is stored and used as long as the Avatar is available on the Platform or as otherwise instructed by our Customer,https://www.synthesia.io/legal/privacy-policy,2026-11-23,verified
+Synthesia,certs,"SOC 2 Type II, GDPR, ISO 42001 (vendor statement)","fully SOC 2 Type II, GDPR, and ISO 42001 compliant",https://www.synthesia.io/alternatives/synthesia-vs-colossyan,2026-11-23,verified
+Synthesia,sso,Enterprise,SAML/SSO and SCIM (Enterprise column),https://www.synthesia.io/pricing,2026-11-23,verified
+Synthesia,stock_ads,Barred in paid/boosted social ads without written consent,"Incorporating a Stock Avatar in content for ""promoted"", ""boosted"", or ""paid"" advertising on any social media platform ... absent written express consent from Synthesia",https://www.synthesia.io/legal/acceptable-use-policy,2026-11-23,verified
+HeyGen,consent,Explicit consent of the person required,"Unless explicit consent has been provided, creating avatars of other individuals is strictly prohibited",https://www.heygen.com/moderation-policy,2026-11-23,verified
+HeyGen,training,Yes for non-enterprise (opt-out by request); enterprise excluded by default,"we may use the input that you provide us to improve our services, for example, to train and enhance the models",https://www.heygen.com/privacy,2026-11-23,verified
+HeyGen,ownership,User owns avatars and paid-plan output,You retain full ownership of any avatars you create,https://www.heygen.com/trust-and-safety,2026-11-23,verified
+HeyGen,biometric,Deletion within ~72h of request; backups 60 days,we strive to take steps to delete that information within 72 hours ... kept in the backups ... for 60 days,https://www.heygen.com/privacy,2026-11-23,verified
+HeyGen,certs,"SOC 2 Type II, GDPR, CCPA, EU-US DPF; EU AI Act watermarking by 2 Dec 2026","SOC 2 Type II | In place ... EU AI Act | By December 2, 2026",https://developers.heygen.com/docs/compliance,2026-11-23,verified
+HeyGen,sso,Business plan,"Everything in Pro, plus: ... SAML/SSO",https://www.heygen.com/pricing,2026-11-23,verified
+HeyGen,stock_ads,Not stated,Free plan output barred from advertising; paid-plan stock-avatar ad rule not extracted,https://www.heygen.com/terms,2026-11-23,not_found
+Colossyan,consent,Explicit consent; owner controls access to custom avatar,You decide which users have access to your custom avatar. No one can use your likeness without your permission.,https://www.colossyan.com/ethics/,2026-11-23,verified
+Colossyan,training,No,"Your documents, scripts, and videos are never used to train our AI models",https://www.colossyan.com/security/,2026-11-23,verified
+Colossyan,ownership,User,You retain full ownership of the content you create in Colossyan,https://www.colossyan.com/ethics/,2026-11-23,verified
+Colossyan,biometric,As long as needed; export + full deletion on termination,"Upon contract termination, you can export your content and request full deletion of your data",https://www.colossyan.com/security/,2026-11-23,verified
+Colossyan,certs,"SOC 2 Type II, GDPR; follows EU AI Act principles",SOC 2 Type II certified. GDPR compliant.,https://www.colossyan.com/security/,2026-11-23,verified
+Colossyan,sso,Enterprise,Custom SSO/SAML (Enterprise column),https://www.colossyan.com/pricing/,2026-11-23,verified
+Colossyan,stock_ads,"Barred: TV ads of $1B+ companies, medical/pharma and political ads",in an international television advertising campaign by or on behalf of an entity with annual revenues of more than One Billion Dollars,https://www.colossyan.com/acceptable-use/,2026-11-23,verified
+InVideo,consent,Not stated,Biometric section exists; consent wording not extracted,https://invideo.io/privacy-policy/,2026-11-23,not_found
+InVideo,training,"Opt-in in EU/UK, opt-out elsewhere","In the EEA or UK, we use your User Data for these purposes only if you have turned on model training",https://invideo.io/terms-of-service/,2026-11-23,verified
+InVideo,ownership,Perpetual licence to commercialise outputs,"perpetual, irrevocable, worldwide, royalty-free, non-exclusive licence to ... commercialise Outputs",https://invideo.io/terms-of-service/,2026-11-23,verified
+InVideo,biometric,Facial embeddings processed for custom avatars (retention not extracted),"where you create custom Avatars or submit recordings of your face, we may process facial embeddings",https://invideo.io/privacy-policy/,2026-11-23,inferred
+InVideo,certs,SOC 2 from Enterprise plan,SOC 2 and single sign-on from Enterprise,https://invideo.io/pricing/,2026-11-23,verified
+InVideo,sso,Enterprise,SOC 2 and single sign-on from Enterprise,https://invideo.io/pricing/,2026-11-23,verified
+InVideo,stock_ads,Not stated,Not found on the official pages we read,https://invideo.io/terms-of-service/,2026-11-23,not_found
+D-ID,consent,Not stated,Not found on the official pages we read,https://www.d-id.com/ethics-in-ai/,2026-11-23,not_found
+D-ID,training,Not stated,Not found on the official pages we read,https://www.d-id.com/studio-end-user-license-agreement/,2026-11-23,not_found
+D-ID,ownership,Not stated,Not found on the official pages we read,https://www.d-id.com/studio-end-user-license-agreement/,2026-11-23,not_found
+D-ID,biometric,Separate Biometric Privacy Policy exists (not extracted),Biometric Privacy Policy,https://www.d-id.com/privacy-policy/,2026-11-23,inferred
+D-ID,certs,"ISO/IEC 27001:2022, ISO/IEC 27017, SOC 2",ISO/IEC 27001:2022 ... SOC 2 Certification,https://www.d-id.com/security-and-privacy-compliance/,2026-11-23,verified
+D-ID,sso,Not stated,Not found on the official pages we read,https://www.d-id.com/pricing/studio/,2026-11-23,not_found
+D-ID,stock_ads,Not stated,Not found on the official pages we read,https://www.d-id.com/studio-end-user-license-agreement/,2026-11-23,not_found
+Hour One,consent,"Closed (acquired by Wix, May 2025; site does not load)",Today Wix announced its acquisition of Hour One,https://www.wix.com/press-room/home/post/wix-acquires-hour-one-to-expand-generative-ai-capabilities-and-accelerate-product-innovation,2026-11-23,verified
+Hour One,training,"Closed (acquired by Wix, May 2025; site does not load)",Today Wix announced its acquisition of Hour One,https://www.wix.com/press-room/home/post/wix-acquires-hour-one-to-expand-generative-ai-capabilities-and-accelerate-product-innovation,2026-11-23,verified
+Hour One,ownership,"Closed (acquired by Wix, May 2025; site does not load)",Today Wix announced its acquisition of Hour One,https://www.wix.com/press-room/home/post/wix-acquires-hour-one-to-expand-generative-ai-capabilities-and-accelerate-product-innovation,2026-11-23,verified
+Hour One,biometric,"Closed (acquired by Wix, May 2025; site does not load)",Today Wix announced its acquisition of Hour One,https://www.wix.com/press-room/home/post/wix-acquires-hour-one-to-expand-generative-ai-capabilities-and-accelerate-product-innovation,2026-11-23,verified
+Hour One,certs,"Closed (acquired by Wix, May 2025; site does not load)",Today Wix announced its acquisition of Hour One,https://www.wix.com/press-room/home/post/wix-acquires-hour-one-to-expand-generative-ai-capabilities-and-accelerate-product-innovation,2026-11-23,verified
+Hour One,sso,"Closed (acquired by Wix, May 2025; site does not load)",Today Wix announced its acquisition of Hour One,https://www.wix.com/press-room/home/post/wix-acquires-hour-one-to-expand-generative-ai-capabilities-and-accelerate-product-innovation,2026-11-23,verified
+Hour One,stock_ads,"Closed (acquired by Wix, May 2025; site does not load)",Today Wix announced its acquisition of Hour One,https://www.wix.com/press-room/home/post/wix-acquires-hour-one-to-expand-generative-ai-capabilities-and-accelerate-product-innovation,2026-11-23,verified
+Elai,consent,Not stated,Ethics page bans deepfakes of famous people; no custom-avatar consent rule found,https://elai.io/ethical-policy/,2026-11-23,not_found
+Elai,training,Not stated,Not found on the official pages we read,https://elai.io/terms-of-service/,2026-11-23,not_found
+Elai,ownership,Not stated,Not found on the official pages we read,https://elai.io/terms-of-service/,2026-11-23,not_found
+Elai,biometric,Users can delete data; account deletion deletes all data,When an account is deleted all user's data is deleted,https://elai.io/security-policy/,2026-11-23,verified
+Elai,certs,GDPR (self-declared); no SOC 2/ISO found,"Yes, we abide by GDPR and the CPPA",https://elai.io/security-policy/,2026-11-23,verified
+Elai,sso,Enterprise,Workspaces SSO Premium Support Contact Sales,https://elai.io/pricing/,2026-11-23,verified
+Elai,stock_ads,Not stated,Not found on the official pages we read,https://elai.io/terms-of-service/,2026-11-23,not_found
+DeepBrain AI (AI Studios),consent,User solely responsible for photo/custom avatar content,By using the Photo Avatar and Custom Avatar features ... User Responsibility: You are solely responsible,https://www.aistudios.com/terms-of-use,2026-11-23,inferred
+DeepBrain AI (AI Studios),training,Not stated,Terms bar users from training models on outputs; vendor training use not found,https://www.aistudios.com/terms-of-use,2026-11-23,not_found
+DeepBrain AI (AI Studios),ownership,Not stated,Not found on the official pages we read,https://www.aistudios.com/terms-of-use,2026-11-23,not_found
+DeepBrain AI (AI Studios),biometric,Not stated,Not found on the official pages we read,https://www.aistudios.com/privacy-policy,2026-11-23,not_found
+DeepBrain AI (AI Studios),certs,Not stated,Trust page hosted on Drata (not read),https://www.aistudios.com/,2026-11-23,not_found
+DeepBrain AI (AI Studios),sso,Enterprise,Exclusive to Enterprise ... SAML SSO,https://www.aistudios.com/pricing,2026-11-23,verified
+DeepBrain AI (AI Studios),stock_ads,Not stated,Not found on the official pages we read,https://www.aistudios.com/terms-of-use,2026-11-23,not_found
+Vyond,consent,Not stated,Animated characters; avatar consent not applicable/not found,https://www.vyond.com/terms/,2026-11-23,not_found
+Vyond,training,No,[Company will not use] Customer Content or Customer-Owned Output to create new products or services or to train any large language AI models,https://www.vyond.com/terms/,2026-11-23,verified
+Vyond,ownership,Customer-Owned Output defined in terms,AI Outputs means the Videos and Customer-Owned Output,https://www.vyond.com/terms/,2026-11-23,inferred
+Vyond,biometric,Not stated,Not found on the official pages we read,https://www.vyond.com/privacy/,2026-11-23,not_found
+Vyond,certs,"ISO 27001, GDPR, CCPA, DPF","Vyond is ISO 27001 certified (for all locations and use cases), GDPR and CCPA compliant",https://www.vyond.com/solutions/enterprise/security/,2026-11-23,verified
+Vyond,sso,Listed (SAML 2.0); plan tier not extracted,Single Sign On (SSO) Integrate Vyond directly with ... SAML 2.0,https://www.vyond.com/plans/,2026-11-23,inferred
+Vyond,stock_ads,Not stated,Not found on the official pages we read,https://www.vyond.com/terms/,2026-11-23,not_found
+Captions / Mirage,consent,Not stated,Not found on the official pages we read,https://mirage.app/legal/captions-terms,2026-11-23,not_found
+Captions / Mirage,training,Licence to improve services / develop new ones,"to improve the Services, and to develop new services and products",https://mirage.app/legal/captions-terms,2026-11-23,verified
+Captions / Mirage,ownership,User,you own all rights in and to your Input and Output,https://mirage.app/legal/captions-terms,2026-11-23,verified
+Captions / Mirage,biometric,Your voice/likeness not commercialized as standard,to the extent the Input contains your voice or likeness ... we will not commercialize,https://mirage.app/legal/captions-terms,2026-11-23,verified
+Captions / Mirage,certs,SOC 2,Mirage is SOC 2 compliant,https://mirage.app/safety-and-security,2026-11-23,verified
+Captions / Mirage,sso,Not stated,Not found on the official pages we read,https://captions.ai/pricing,2026-11-23,not_found
+Captions / Mirage,stock_ads,Not stated,Not found on the official pages we read,https://mirage.app/legal/captions-terms,2026-11-23,not_found
+Tavus,consent,Customer must obtain explicit biometric consents,explicit consents required for the processing of biometric data,https://www.tavus.io/terms-of-service,2026-11-23,verified
+Tavus,training,Not stated,Not found on the official pages we read,https://www.tavus.io/terms-of-service,2026-11-23,not_found
+Tavus,ownership,Not stated,Not found on the official pages we read,https://www.tavus.io/terms-of-service,2026-11-23,not_found
+Tavus,biometric,"Separate Biometric Data Policy (in privacy policy, not extracted)",Biometric Data Policy,https://www.tavus.io/privacy-policy,2026-11-23,inferred
+Tavus,certs,SOC 2 and HIPAA on Enterprise,SOC 2 and HIPAA compliance,https://www.tavus.io/pricing,2026-11-23,verified
+Tavus,sso,Not stated,Not found on the official pages we read,https://www.tavus.io/pricing,2026-11-23,not_found
+Tavus,stock_ads,Not stated,Not found on the official pages we read,https://www.tavus.io/acceptable-use-policy,2026-11-23,not_found
+Argil,consent,Explicit consent for biometric data (GDPR art. 9),Biometric / face data — explicit consent (GDPR Art. 9),https://www.argil.ai/terms,2026-11-23,verified
+Argil,training,Mixed: avatar video not used for general models; scripts/User Content may train its AI,the User's video is at no point used to train Argil.ai's general-purpose Artificial Intelligence models ... right to use User Content ... for the sole purpose of creating Generated Content and training its AI,https://www.argil.ai/terms,2026-11-23,verified
+Argil,ownership,User (Argil claims none),The Company does not claim any intellectual property rights over the Generated Content,https://www.argil.ai/terms,2026-11-23,verified
+Argil,biometric,Not stated,Not found on the official pages we read,https://www.argil.ai/privacy,2026-11-23,not_found
+Argil,certs,Not stated,Not found on the official pages we read,https://www.argil.ai/terms,2026-11-23,not_found
+Argil,sso,Not stated,Pricing page did not render,https://www.argil.ai/pricing,2026-11-23,not_found
+Argil,stock_ads,Not stated,Not found on the official pages we read,https://www.argil.ai/terms,2026-11-23,not_found
